@@ -1,2 +1,3 @@
 # multi-zones-nextjs
-Testing Multi zones Next js feature
+Testing Multi-zones Nextjs feature. 
+main and blog are two separate next js projects.
